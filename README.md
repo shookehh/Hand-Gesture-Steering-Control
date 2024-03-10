@@ -4,6 +4,8 @@ Controls Steering in video games (A and D steering)
 steering.py is initial (simpler) attempt
 steeringv2.py is newer attempt
 
+Lil demo: https://www.youtube.com/watch?v=10EynEyboUM
+
 Notes to me:
 
 - Sacrificed Accuracy for Optimization (need work on that)
