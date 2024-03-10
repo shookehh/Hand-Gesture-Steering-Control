@@ -1,6 +1,8 @@
 # Hand-Gesture-Steering-Control
 Controls Steering in video games (A and D steering)
 
+steering.py is initial (simpler) attempt
+steeringv2.py is newer attempt
 
 Notes to me:
 
